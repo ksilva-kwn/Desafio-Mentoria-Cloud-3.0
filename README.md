@@ -1,4 +1,4 @@
- <img width=100% src="https://raw.githubusercontent.com/ksilva-kwn/icones-pro-perfil/main/Captura%20de%20tela%202023-12-10%20181210.png?token=GHSAT0AAAAAACLFTWHDG7TQMPPU6MHREYEYZLWG74Q"/>
+ <img width=100% src="https://raw.githubusercontent.com/ksilva-kwn/icones-pro-perfil/main/Captura%20de%20tela%202023-12-10%20181210.png?token=GHSAT0AAAAAACLFTWHCRM4S2IJWNC2D3GCGZLWKNVA"/>
 
 ### Desafio Trilha DevOps - Mentoria 3.0 Canal da Cloud
 <i> Proposta técnica/comercial completa para a empresa Abstergo Data - Time 1</i> <br>

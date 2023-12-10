@@ -1,60 +1,45 @@
-# Desafio Trilha DevOps - Mentoria 3.0 Canal da Cloud
-<i> Proposta técnica/comercial completa para a empresa Abstergo Data </i> <br>
+ <img width=100% src="https://raw.githubusercontent.com/ksilva-kwn/icones-pro-perfil/main/Captura%20de%20tela%202023-12-10%20181210.png?token=GHSAT0AAAAAACLFTWHDG7TQMPPU6MHREYEYZLWG74Q"/>
 
-### Sobre a Abstergo Data 
-A Abstergo Data é uma empresa líder em soluções de dados e inteligência
-artificial (AI), especializada em capacitar empresas com insights acionáveis a
-partir de análises avançadas.
-Nossa expertise abrange desde a coleta de dados em tempo real até a
-aplicação de algoritmos de AI para transformar informações em vantagem
-competitiva.
-Com uma visão voltada para o futuro e uma equipe de especialistas altamente
-qualificados, a Abstergo Data é a parceira ideal para empresas que desejam
-alavancar tecnologias de Data & AI. Nosso foco está na criação de soluções de
-última geração que abrangem desde a automação de processos DevOps até
-a análise inteligente de dados provenientes de dispositivos IoT.
+### Desafio Trilha DevOps - Mentoria 3.0 Canal da Cloud
+<i> Proposta técnica/comercial completa para a empresa Abstergo Data - Time 1</i> <br>
 
-### Principais Áreas de Atuação:
-• Coleta de Streaming de Dados em Tempo Real de Veículos com IoT <br>
-• Desenvolvimento de Soluções DevOps para a Indústria Automotiva <br>
-• Análise Avançada de Dados e Inteligência Artificial <br>
-• Otimização de Operações e Tomada de Decisões Estratégicas
+#
 
-### Objetivos do Projeto
-Nosso objetivo é fornecer soluções de Cloud e DevOps sob medida para apoiar a Abstergo Data <br>
-na implementação bem-sucedida de seu inovador aplicativo AutoStream.Nossa parceria visa <br>
-alcançar os seguintes objetivos essenciais:
+Bem-vindo ao repositório do projeto AutoStream do Time 1 da **Terceira Edição** do Programa de Mentoria do [Canal da Cloud](https://www.youtube.com/@CanaldaCloud) na trilha DevOps! <br>
+Este repositório visa disponibilizar o trabalho realizado à comunidade que foi apresentado no dia 30/11/2023.
 
-• Arquitetura e Implantação Cloud: Projetar e implementar uma arquitetura
-escalável e resiliente na nuvem para suportar a infraestrutura do
-AutoStream. Utilizaremos as melhores práticas de gerenciamento de
-recursos em nuvem para garantir alta disponibilidade e eficiência. <br> <br>
+### Integrantes:
 
-• Orquestração de Containers: Implementar uma estratégia de
-orquestração de containers utilizando o Kubernetes, visando simplificar o
-gerenciamento de aplicativos e facilitar o dimensionamento automático
-conforme a demanda. <br> <br>
+@Kawan Silva (Mentorado) <br><br>
+<a href="https://www.linkedin.com/in/kawansilva29" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-• Automação DevOps: Criar pipelines de integração e entrega contínuas
-(CI/CD) para automatizar o processo de desenvolvimento, teste e
-implantação do AutoStream. Isso permitirá entregas mais frequentes e
-confiáveis. <br> <br>
+@Alex Negreiros (Mentorada) <br><br>
+<a href="https://www.linkedin.com/in/alex-negreiros-61893026/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-• Monitoramento e Observabilidade: Estabelecer práticas de
-monitoramento avançado e observabilidade para garantir visibilidade
-total sobre o desempenho do AutoStream. Isso ajudará a identificar
-problemas rapidamente e a otimizar continuamente a aplicação. <br>
+@Rafel Ferreira (Mentor) <br><br>
+<a href="https://www.linkedin.com/in/rafaelmaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-• Segurança e Conformidade: Implementar medidas de segurança robustas
-para proteger os dados sensíveis do AutoStream e garantir conformidade
-com os padrões de segurança relevantes. <br> <br>
+@Germana Queiroz (Apoiador) <br><br>
+<a href="https://www.linkedin.com/in/germana-queiroz-it/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-• Treinamento e Transferência de Conhecimento: Capacitar a equipe da
-Abstergo Data com o conhecimento necessário para gerenciar e manter
-a infraestrutura Cloud e DevOps após a conclusão do projeto. <br> <br>
+@Jardel (Apoiador) <br><br>
+<a href="https://www.linkedin.com/in/jardeljga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Ao final deste projeto, a Aperture IT Solutions espera fortalecer ainda mais a
-parceria com a Abstergo Data, fornecendo-lhes uma solução tecnológica sólida
-e pronta para o futuro. Juntos, estamos comprometidos em impulsionar o sucesso
-do aplicativo AutoStream e estabelecer um exemplo notável de colaboração
-entre academia e indústria.
+## Objetivo
+
+O intuito deste desafio é criar uma proposta de uma solução Cloud Native & DevOps robusta e agnóstica para a análise em tempo real de dados de veículos IoT para uma empresa chamada Abstergo Data, que é uma iniciativa voltada para o desenvolvimento e implementação de soluções avançadas de tecnologia, especialmente em nuvem e práticas DevOps em um cenário de auditoria.
+
+Seu principal objetivo é criar uma infraestrutura sólida e eficiente para suportar o aplicativo inovador chamado AutoStream. Essa iniciativa visa capacitar a Abstergo Data a lidar com grandes volumes de dados em tempo real, promovendo a eficiência operacional, segurança dos dados e posicionamento estratégico no mercado.
+
+### Documentos Iniciais
+
+[Proposta técnica/comercial completa para a empresa Abstergo Data](https://drive.google.com/file/d/1HYlRlHPDuATlfuiMJozqFCwkv9tSoihd/view)
+
+[Critérios de Avaliação dos Alunos](https://drive.google.com/file/d/1H_QvkMLNZvS0MDTtwqq5_Wbiq0ohMPOJ/view)
+
+#
+
+### Documentação
+Toda nossa Documentação como a Proposta Comercial, SOW, Assessment e o Solution Design, encontra-se disponível no GitHub na pasta **[Arquivos do Projeto](https://github.com/ksilva-kwn/Desafio-Mentoria-Cloud-3.0/tree/main/Arquivos%20do%20Projeto)**
+
+<br>

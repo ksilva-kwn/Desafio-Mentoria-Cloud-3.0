@@ -13,7 +13,7 @@ Este repositório visa disponibilizar o trabalho realizado à comunidade que foi
 @Kawan Silva (Mentorado) <br><br>
 <a href="https://www.linkedin.com/in/kawansilva29" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-@Alex Negreiros (Mentorada) <br><br>
+@Alex Negreiros (Mentorado) <br><br>
 <a href="https://www.linkedin.com/in/alex-negreiros-61893026/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 @Rafel Ferreira (Mentor) <br><br>
